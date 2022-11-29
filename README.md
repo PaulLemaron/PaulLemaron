@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PaulLemaron
-- 👀 I’m interested in web design and development 
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in web design and development as well as OOP in C
+- 🌱 I’m currently learning javascript, C and ALX software Engineering
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 You can reach me through email: lemaronp@gmail.com 
 
