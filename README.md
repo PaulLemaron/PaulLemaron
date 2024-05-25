@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PaulLemaron
-- 👀 I’m interested in Data Analysis and Education
+- 👀 I’m interested in Data Analysis, Analytics Engineerin and Education (Teaching and research)
 - 🌱 I’m currently learning Python, Tableau, SQL, Power BI, dbt, Excel
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 You can reach me through email: lemaronp@gmail.com 
